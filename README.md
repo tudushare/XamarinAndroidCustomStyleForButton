@@ -1,2 +1,2 @@
 # XamarinAndroidCustomStyleForButton
-demo button with custom style
+demo: Button with custom style
